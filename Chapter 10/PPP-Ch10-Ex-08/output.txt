@@ -1,0 +1,2 @@
+This is the contents of the "file01.txt". If concatenation is done propoerly, you should read this before the contents of the 2nd file. end of file01.txt | 
+This is the contents of "file02.txt". If this is the last paragraph in the file, then you have succefuly completed exercise 8 of Chapter 10. | 

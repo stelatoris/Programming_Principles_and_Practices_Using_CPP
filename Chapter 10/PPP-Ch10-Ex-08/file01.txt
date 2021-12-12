@@ -1,0 +1,4 @@
+This is the contents of the "file01.txt".
+If concatenation is done propoerly, you should read this before the contents of the 2nd file.
+end of file01.txt
+|
