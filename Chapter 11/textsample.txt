@@ -1,0 +1,10 @@
+/* 
+	Hasan Z. Programmer
+	Aug 16th 2021
+	
+	Programmingm: Principles and Practices Using C++ Book
+	Chapter 11 Exercise 07
+
+	7. Modify the "program! from .the previous exercise, so that it" replaces: don't with; do not, can't with cannot, etc.; 
+    leaves hyphens within words intact (so that we get " do not use the as-if rule "); and can't converts "all! AAAharacters: to lower- case.
+*/
