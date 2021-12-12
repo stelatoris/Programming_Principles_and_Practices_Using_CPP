@@ -1,0 +1,9 @@
+﻿  Chapter 9.cpp
+C:\Users\VRED\Documents\GitHub\Chapter 9\Chapter 9\Chapter 9.cpp(12,10): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\VRED\Documents\GitHub\Chapter 9\Chapter 9\Chapter 9.cpp(13,10): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\VRED\Documents\GitHub\Chapter 9\Chapter 9\Chapter 9.cpp(74): warning C4715: 'Currency_data::currency': not all control paths return a value
+C:\Users\VRED\Documents\GitHub\Chapter 9\Chapter 9\Chapter 9.cpp(68): warning C4715: 'Currency_data::name': not all control paths return a value
+C:\Users\VRED\Documents\GitHub\Chapter 9\Chapter 9\Chapter 9.cpp(80): warning C4715: 'Currency_data::ratio': not all control paths return a value
+C:\Users\VRED\Documents\GitHub\Chapter 9\Chapter 9\Chapter 9.cpp(96): warning C4715: 'Currency_data::currency_check': not all control paths return a value
+C:\Users\VRED\Documents\GitHub\Chapter 9\Chapter 9\Chapter 9.cpp(111): warning C4715: 'operator>>': not all control paths return a value
+  Chapter 9.vcxproj -> C:\Users\VRED\Documents\GitHub\Chapter 9\Debug\Chapter 9.exe
